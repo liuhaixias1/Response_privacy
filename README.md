@@ -13,10 +13,3 @@ For the Communities and Crime dataset, you can download from https://archive.ics
 
 ## The California Housing Dataset
 This California Housing dataset was derived from the 1990 U.S. census, which can be obtained from the StatLib repository https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html or import through the command  *fetch\_california\_housing* https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html\#sklearn.datasets.fetch_california_housing in sklearn.datasets. 
-
-## NOT offical codes
-We implement the rronbins (criteo_rronbins.ipynb) by [1] and unbiased (Optimal_unbiased.ipynb) by [2].
-
-[1] B. Ghazi, P. Kamath, R. Kumar, E. Leeman, P. Manurangsi, A. Varadarajan, and C. Zhang. Regression with label differential privacy. arXiv preprint arXiv:2212.06074, 2022.
-
-[2] A. Badanidiyuru, B. Ghazi, P. Kamath, R. Kumar, E. J. Leeman, P. Manurangsi, A. V. Varadarajan, and C. Zhang. Optimal unbiased randomizers for regression with label differential privacy. In Advances in Neural Information Processing Systems, pages 60226–60246, 2023.
